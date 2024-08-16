@@ -1,7 +1,7 @@
 {
   "telegram_token": "7506935902:AAEBlNygLzjoAReJpIgbK7TsEgczdcbcAU8",
   "chats": {
-      "5486080778": {
+      "-CHAT_ID_1": 5486080778 {
         "debug_group": false,
         "criteria": {
           "category": "apartments",
